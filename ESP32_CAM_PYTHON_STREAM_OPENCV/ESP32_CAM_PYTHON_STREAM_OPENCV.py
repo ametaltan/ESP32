@@ -10,7 +10,7 @@ INFO SECTION
 '''
 
 # ESP32 URL
-URL = "insert here the Esp-cam URL, eg. http://192.168.1.1"
+URL = "insert here the Esp-cam URL, eg. http://192.168.1.32"
 AWB = True
 
 # Face recognition and opencv setup
